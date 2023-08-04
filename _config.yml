@@ -2,8 +2,10 @@ remote_theme: riggraz/no-style-please
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 title: Craig Moore III
-description: Welcome to my site!
+description: Check out some of my work
 show_downloads: false
-appearance: "dark"
+
+theme_config:
+  appearance: "dark"
 
 # No Style, Please! theme from riggraz https://riggraz.dev/no-style-please/
