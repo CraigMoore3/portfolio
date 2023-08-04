@@ -4,5 +4,6 @@ plugins:
 title: Craig Moore III
 description: Welcome to my site!
 show_downloads: false
+appearance: "dark"
 
 # No Style, Please! theme from riggraz https://riggraz.dev/no-style-please/
